@@ -1,5 +1,5 @@
 # keeping latest as we would have to individually change version if anything changes there
-FROM stakater/pipeline-tools:v2.0.17
+FROM stakater/pipeline-tools:v2.0.18
 
 # Default to UTF-8 file.encoding
 ENV LANG C.UTF-8
